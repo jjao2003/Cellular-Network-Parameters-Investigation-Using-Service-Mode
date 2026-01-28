@@ -1,0 +1,4 @@
+Summary of Environmental Impact:
+1. Distance from Tower: RSRP inversely correlates with distance; however, indoors, distance is secondary to wall density.
+2. Network Load: Observed fluctuations in Bandwidth (20MHz to 10MHz) suggest the network dynamically reallocates resources based on signal reliability.
+3. Reliability: SINR below 5dB resulted in noticeable packet retransmission and slower load times.
