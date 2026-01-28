@@ -18,5 +18,5 @@ This repository contains a technical investigation into how physical environment
 
 ---
 **Course:** Wireless and Radiotechnology 2026  
-**Student:** [Your Name]  
+**Student:** Agozie Joel Onuigbo  
 **Submission Date:** January 28, 2026
