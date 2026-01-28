@@ -1,0 +1,10 @@
+# Measured Data Log
+
+| Condition | Tech | RSRP (Strength) | SINR (Quality) | Bandwidth | Stability |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Outdoors** | 5G | -82 dBm | 16.5 dB | 20 MHz | Very High |
+| **Near Window** | 5G | -92 dBm | 14.5 dB | 20 MHz | High |
+| **Center of Room** | 4G | -98 dBm | 5.2 dB | 15 MHz | Moderate |
+| **Deep Indoors** | 4G | -108 dBm | 1.8 dB | 10 MHz | Low |
+
+> **Note:** Measurements were taken consecutively to minimize variables related to network load fluctuations.
